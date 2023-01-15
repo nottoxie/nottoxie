@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="itachi" width="100" src="https://thumbs.gfycat.com/AdventurousShallowDarwinsfox-size_restricted.gif">
+<img align="right" alt="itachi" width="150" src="https://thumbs.gfycat.com/AdventurousShallowDarwinsfox-size_restricted.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nottoxie" alt="nottoxie" /></a> </p>
 
 - 🔥 I’m currently learning **Vanilla, JavaScript, React, CSS, HTML, VUE.**
 
-- 😏 Fun fact **Hey are you type O- blood? Cos I think you are a perfect match with me.**
+- 😏 Fun fact: **Hey are you type O- blood? Cos I think you are a perfect match with me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
