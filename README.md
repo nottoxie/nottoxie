@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yash Vardhan</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="itachi" width="300" src="https://thumbs.gfycat.com/AdventurousShallowDarwinsfox-size_restricted.gif">
+<img align="right" alt="itachi" width="100" src="https://thumbs.gfycat.com/AdventurousShallowDarwinsfox-size_restricted.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nottoxie" alt="nottoxie" /></a> </p>
 
